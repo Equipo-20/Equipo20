@@ -67,18 +67,6 @@ const Characters = () => {
             <button className="closeButton" onClick={closePopup}>
               X
             </button>
-           {/* <h1>{selectedCharacter.name}</h1>
-           <img className="img"
-            src={selectedCharacter.image}
-            alt={selectedCharacter.name} />
-            <p>Color de ojos: {selectedCharacter.eyeColour}</p>
-            <p>Color del cabello: {selectedCharacter.hairColor}</p>
-            <p>Estado: {selectedCharacter.alive ? "Vivo" : "Muerto"}</p>
-            <p>Casa: {selectedCharacter.house}</p>
-            <p>Especie: {selectedCharacter.species}</p>
-            <p>Patronus: {selectedCharacter.patronus}</p>
-            <p>Nacimiento: {selectedCharacter.dateOfBirth}</p>
-            <p>{selectedCharacter.description}</p> */}
           </div>
         )}
       </Modal>
