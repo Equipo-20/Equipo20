@@ -8,7 +8,7 @@
 //     const [selectedCharacter, setSelectedCharacter] = useState(null);
   
 //     useEffect(() => {
-//      /* fetch("https://Ejemplo de una bases de datos")
+//      /* fetch("http://127.0.0.1:8000/api")
 //         .then((response) => response.json())
 //         .then((data) => {
 //           console.log(data);
