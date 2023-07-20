@@ -6,6 +6,8 @@
     right: 35%;
     top: 22%;
     overflow: hidden;
+    position: relative;
+    overflow: hidden;
     height: 400px;
 }
 
@@ -39,7 +41,6 @@
     object-fit: cover;
 }
 
- 
 .buttons {
     position: absolute;
     bottom: 20px;
@@ -59,3 +60,4 @@
 .buttons button:focus {
     outline: none;
 }
+
