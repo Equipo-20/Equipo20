@@ -1,0 +1,38 @@
+.footer {
+  background-image: linear-gradient(to left, #8a2be2, #1e90ff);
+  padding: 20px;
+  margin-bottom: 0%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.footer p {
+  font-size: 15px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.follow-us {
+  display: flex;
+  align-items: center;
+}
+
+.follow-us p {
+  margin-right: 10px;
+  font-size: 30px;
+}
+
+.follow-us img {
+  margin-left: 50px;
+  width: 50px;
+  height: 50px;
+
+}
+
