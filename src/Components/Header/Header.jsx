@@ -10,8 +10,8 @@ const Header = () => {
           <img src={ImageLogo} alt="Logo" />
         </div>
         <div className="navigation">
-          <a href="/">Inicia sesión</a>
-          <a href="/servicios">Registrate</a>
+          <a>Inicia sesión</a>
+          <a>Registrate</a>
         </div>
       </div>
     </header>
