@@ -1,13 +1,13 @@
 import React from 'react';
-import Footer from './Components/Footer/Footer.jsx';
+import Banner from './Components/Banner/Banner.jsx';
 
 function App() {
   return (
     <div className="App">
       {/* Aquí puedes agregar otros componentes y contenido */}
-      <Footer />
+      <Banner />
     </div>
   );
-}
+};
 
 export default App;
