@@ -1,5 +1,9 @@
 h2 {
-    font-size: 30px;
+  font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    color: var(--blackText);
+    position: relative;
+    top: 120px;
   }
 
 .photo-descrip {
@@ -7,6 +11,8 @@ h2 {
     align-items: center;
     text-align: center;
     margin-right: 30px;
+    position: relative;
+    top: 80px;
   }
   
 .photo {

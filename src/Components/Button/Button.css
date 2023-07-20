@@ -2,6 +2,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position:relative;
+    top: 25%;
 }
 
 .adv-button {
@@ -17,7 +19,5 @@
     align-items: center;
     justify-content: center;
     padding: 10px;
-    position: relative;
-    top: 450px;
     font-family: 'Poppins', sans-serif;
 }
