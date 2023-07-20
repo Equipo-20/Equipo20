@@ -1,0 +1,16 @@
+/* Search.css */
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+label {
+  margin-left: 10px;
+}
