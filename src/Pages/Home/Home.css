@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+.Pag1 {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.58), rgba(243, 161, 244, 0.408)), url("../../Assets/Images/fotobody2.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}

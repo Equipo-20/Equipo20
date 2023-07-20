@@ -1,12 +1,15 @@
 import React from "react";
-import './Button.css'
+import { Link } from 'react-router-dom';
+import './Button.css';
 
 export function Button() {
   return (
     <div className="button-container">
-    <button className="adv-button">
-      Ir a los Anuncios
-    </button>
+      <Link to="/announces" style={{ textDecoration: "none" }}>
+        <button className="adv-button">
+          Ir a los Anuncios
+        </button>
+      </Link>
     </div>
   );
 };

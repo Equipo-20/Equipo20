@@ -1,11 +1,12 @@
 import React from 'react';
-import Footer from './Components/Footer/Footer.jsx';
+import './App.css';
+import Routes from '../src/Application/Routes';
+
 
 function App() {
   return (
     <div className="App">
-      {/* Aquí puedes agregar otros componentes y contenido */}
-      <Footer />
+      <Routes />
     </div>
   );
 }
