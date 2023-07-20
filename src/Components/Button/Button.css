@@ -1,0 +1,23 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adv-button {
+    background-color: var(--button);
+    border: none;
+    border-radius: 35px;
+    width: 400px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: var(--whiteText);  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    top: 450px;
+    font-family: 'Poppins', sans-serif;
+}
